@@ -1,4 +1,2 @@
-all: build
-
-build:
-	@docker build --tag=sameersbn/bind .
+all:
+	@docker build --tag=caleb9/bind .
