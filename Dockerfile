@@ -3,7 +3,7 @@ FROM alpine:latest
 LABEL maintainer="Piotr Karasinski"
 
 RUN apk upgrade && \
-    apk add bind && \
+    apk add bind=9.16.6-r0 && \
     rm -rf /var/cache/apk
 
 ENV BIND_USER=named \
