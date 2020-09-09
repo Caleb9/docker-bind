@@ -1,5 +1,7 @@
 # caleb9/bind
 
+[![Docker Image Version (latest semver) on Docker Hub](https://img.shields.io/docker/v/caleb9/bind?label=Docker%20Hub&style=flat-square "Docker Image Version (latest semver) on Docker Hub")](https://hub.docker.com/r/caleb9/bind)
+
 
 # Introduction
 
